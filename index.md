@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-<a href="C:\Users\Shannon Myers\Documents\Biology-DNA\teen_time_report.pdf">ok</a>
+<a href="pdf/sample_presentation.pdf">ok</a>
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
