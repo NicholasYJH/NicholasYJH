@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-<a><"Nicholasyjh.github.io/pdf/sample_presentation.pdf" target="_blank">Presentation Slide</a>
+<a><a href="https://nicholasyjh.github.io/pdf/sample_presentation.pdf" target="_blank">Presentation Slide</a>
 
 ### Category Name 1 
 
