@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-<a><iframe src="pdf/sample_presentation.pdf">Presentation Slide</a>
+<a><a href="pdf/sample_presentation.pdf" target="blank">Presentation Slide</a>
 
 ### Category Name 1 
 
