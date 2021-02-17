@@ -30,4 +30,4 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-<a href="javascript:history.back()"><b><Back</b></a>
+<a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a>
