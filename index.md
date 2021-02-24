@@ -5,7 +5,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/Projects/Nicholas Yang Jun Hao Capstone Project 1.pptx)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
