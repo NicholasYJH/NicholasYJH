@@ -5,7 +5,7 @@
 
 ### Capstone Project 1
 
-<a><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">[Project 1 Title]</a>
+<a><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">Project 1 Title</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
