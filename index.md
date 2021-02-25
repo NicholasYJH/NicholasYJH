@@ -3,7 +3,7 @@
 ---
 <a><a href="/pdf/sample_presentation.pdf" target="_blank">Presentation Slide</a>
 
-### Category Name 1 
+### Capstone Project 1
 
 [Project 1 Title](/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
