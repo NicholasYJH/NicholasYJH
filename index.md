@@ -1,11 +1,10 @@
 ## Portfolio
 
 ---
-<a><a href="/pdf/sample_presentation.pdf" target="_blank">Presentation Slide</a>
 
 ### Capstone Project 1
 
-<a><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">Project 1 Title</a>
+<a><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">Everyday Grocery Market</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
