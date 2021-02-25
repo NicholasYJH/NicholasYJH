@@ -4,7 +4,8 @@
 
 ### Capstone Project 1
 
-<a><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">Everyday Grocery Market</a>
+<a><a href="/Capstone1.md" target="_blank">Everyday Grocery Market</a>
+  
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
