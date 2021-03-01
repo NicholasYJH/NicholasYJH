@@ -1,6 +1,6 @@
 <a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a>
 
-## This can be your internal website page / project page
+Capstone Project 1 - Everyday Grocery Market
 <a><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">Everyday Grocery Market Presentation Slides</a>
 <a><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.xlsx" target="_blank">Everyday Grocery Market Project File</a>
   
