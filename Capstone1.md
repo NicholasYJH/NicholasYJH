@@ -18,7 +18,7 @@ The objective of this project is to analyse the data to assist Everyday Grocery 
 
 With the help of this project, it allows me to understand the process of data preparation and the business objective which deliver a clearer message to the targeted audience.
 
-**Please download and view the two files at the top of the page to see the complete presentation slides and projects **
+<b>Please download and view the two files at the top of the page to see the complete presentation slides and projects</b>
 
 
 <a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a>
