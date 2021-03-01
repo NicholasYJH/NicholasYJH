@@ -14,9 +14,9 @@ The objective of this project is to analyse the data to assist Everyday Grocery 
 
 <img src="images/Capstone 1 dashboard.JPG"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### Conclusion
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+With the help of this project, it allows me to understand the process of data preparation and the business objective which deliver a clearer message to the targeted audience.
 
 
 <a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a>
