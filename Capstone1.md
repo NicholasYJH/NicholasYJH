@@ -1,6 +1,6 @@
 
 <b><font size="+2">Capstone Project 1 - Everyday Grocery Market</font></b><br>
-<img src="images/ppt.png" height="18" width="18"/><font size="+1"> Presentation Slides: <a><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">Everyday Grocery Market</font></a><br>
+<img src="images/ppt.png" height="18" width="18"/><font size="+1"> Presentation Slides: </font><a><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">Everyday Grocery Market</a><br>
 <a><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.xlsx" target="_blank">Everyday Grocery Market Project File</a>
   
 
