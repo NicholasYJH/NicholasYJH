@@ -18,7 +18,10 @@ This project's objective is to analyse the outcome of the promotion and disconti
 
 With the help of this project, it allows me to understand the process of data preparation and the business objective. Withe the different slicers in place, the dashboard became interactive and allow user to drill down and analyse the specific data which gives a better picture to the targeted audience.
 
-<b>Please download and view the two files at the top of the page to see the complete presentation slides and projects</b>
+<b>
+Please download the complete presentation slides at the top of the page to see the complete presentation slides.
+As the project file size is too big to be uploaded into Github, I have breakdown the project file into smaller segment for your reference above.
+</b>
 
 
 <a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a>
