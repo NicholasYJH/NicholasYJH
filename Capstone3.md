@@ -1,6 +1,6 @@
 <a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a>
 
-<b><font size="+1">Capstone Project 2 - Chillout Takeout Meal Delivery Company</font></b><br>
+<b><font size="+1">Capstone Project 3 - Nicholas Reference Insurance Company(NRIC)</font></b><br>
 <a><a href="/Projects/Nicholas Yang Jun Hao - Capstone Project 2 - Chill out takeout.pdf" target="_blank">Chillout Takeout Meal Delivery Company Presentation Slides</a><br>
 
   
@@ -12,7 +12,7 @@ This project's objective is to analyse the outcome of the promotion and disconti
 
 ### Outlook of the interactive dashboard
 
-<img src="images/Capstone 2 dashboard.JPG" height="230"/>
+<img src="images/Capstone 3 Dashboard.JPG"/>
 
 ### Conclusion
 
