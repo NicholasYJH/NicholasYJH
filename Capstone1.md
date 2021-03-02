@@ -1,4 +1,6 @@
-<a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a>
+<a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a> 
+  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <b><font size="+1">Capstone Project 1 - Everyday Grocery Market</font></b><br>
 <a><i class="fa fa-file-powerpoint-o" style="font-size:48px;color:red"><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">Everyday Grocery Market Presentation Slides</i></a><br>
