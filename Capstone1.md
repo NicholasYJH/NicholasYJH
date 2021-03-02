@@ -1,10 +1,9 @@
 <a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a> 
   
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-<i class="ri-slideshow-line"></i>
+
 <b><font size="+1">Capstone Project 1 - Everyday Grocery Market</font></b><br>
-<a><i class="fas fa-file-powerpoint"></i>
-<a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">Everyday Grocery Market Presentation Slides</a><br>
+![](images/ppt/png)
+<a><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">Everyday Grocery Market Presentation Slides</a><br>
 <a><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.xlsx" target="_blank">Everyday Grocery Market Project File</a>
   
 
