@@ -9,7 +9,7 @@
 This project's objective is to analyse the outcome of the promotion and discontinue product with the least sale to minimise cost. This project was done in Microsoft's excel interactive dashboard with the data clean and prepare by using Microsoft SQL Server Management Studio.
 
 
-###ERD
+### ERD
 <img src="images/ERD.JPG">
 
 ### Outlook of the interactive dashboard
