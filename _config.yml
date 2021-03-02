@@ -1,6 +1,5 @@
 title: Nicholas Yang # your name (or website title) here
-Logo: 
-![]("/images/Profile Pic.jpg?raw=true"){: style="height:150px;width:150px"}
+Logo: "/images/Profile Pic.jpg")
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
