@@ -10,7 +10,7 @@ This project's objective is to analyse the outcome of the promotion and disconti
 
 
 ###ERD
-<img src="images/erd.JPG" height="230"/>
+<img src="images/ERD.JPG">
 
 ### Outlook of the interactive dashboard
 
