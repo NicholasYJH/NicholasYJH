@@ -6,7 +6,7 @@
   
 
 **Project description:** <br>
-The objective of this project is to analyse the data to assist Everyday Grocery Market to gain memeberships and marketshare. This project was done in the format of microsoft's excel interactive dashboard.
+This project 
 
 
 
