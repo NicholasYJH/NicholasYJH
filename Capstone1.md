@@ -16,7 +16,7 @@ The objective of this project is to analyse the data to assist Everyday Grocery 
 
 ### Conclusion
 
-With the help of this project, it allows me to understand the process of data preparation and the business objective which deliver a clearer message to the targeted audience.
+With the help of this project, it allows me to understand the process of data preparation and the business objective. Withe the different slicers in place, the dashboard became interactive and allow user to drill down and analyse the specific data which gives a better picture to the targeted audience.
 
 <b>Please download and view the two files at the top of the page to see the complete presentation slides and projects</b>
 
