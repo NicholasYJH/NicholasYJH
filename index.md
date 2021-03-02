@@ -6,7 +6,7 @@
 
 <a><a href="/Capstone1">Everyday Grocery Market</a>
   
-<img src="images/Capstone 1 dashboard.JPG"/>
+<a><a href="/Capstone1"><img src="images/Capstone 1 dashboard.JPG"/></a>
 
 ---
 ### Capstone Project 2
