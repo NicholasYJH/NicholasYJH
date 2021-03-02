@@ -12,7 +12,7 @@ The objective of this project is to analyse the data to assist Everyday Grocery 
 
 ### Outlook of the interactive dashboard
 
-<img src="images/Capstone 1 dashboard.JPG"/>
+<img src="images/Capstone 2 dashboard.JPG"/>
 
 ### Conclusion
 
