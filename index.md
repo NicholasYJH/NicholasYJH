@@ -21,12 +21,3 @@
 <a><a href="/Capstone3"><img src="images/Capstone 3 Dashboard.JPG?raw=true"/></a>
 
 ---
-
-
-
----
-
-
-
-
----
