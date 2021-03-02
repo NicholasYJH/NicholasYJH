@@ -10,7 +10,9 @@ This project's objective is to analyse the outcome of the promotion and disconti
 
 
 ### ERD
+The Data collected needs to be clean, but before that we have to identify the relationship between the data. First, we have to  establish the Primary and Foreign keys of the data, as shown below before we clean the data and remove any unnecessary data field.
 <img src="images/ERD.JPG">
+
 
 ### Outlook of the interactive dashboard
 
