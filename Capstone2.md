@@ -20,7 +20,7 @@ With the help of this project, it allows me to understand the process of data pr
 
 <b>
 Please download the complete presentation slides at the top of the page to see the complete presentation slides.
-<br>As the project file size is too big to be uploaded into Github, I have breakdown the project file into smaller segment for your reference above.
+<br><br>As the project file size is too big to be uploaded into Github, I have breakdown the project file into smaller segment for your reference above.
 </b>
 
 
