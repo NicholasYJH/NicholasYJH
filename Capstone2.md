@@ -1,6 +1,7 @@
 <b><font size="+1">Capstone Project 2 - Chillout Takeout Meal Delivery Company</font></b><br>
 
-<font size="+1"><img src="images/ppt.png" height="18" width="18"/> Presentation Slides: </font><a><a href="/Projects/Nicholas Yang Jun Hao - Capstone Project 2 - Chill out takeout.pdf" target="_blank">Chillout Takeout Meal Delivery Company</a><br>
+<img src="images/ppt.png" height="18" width="18"/><font size="+1"> Presentation Slides: </font>
+<a><a href="/Projects/Nicholas Yang Jun Hao - Capstone Project 2 - Chill out takeout.pdf" target="_blank">Chillout Takeout Meal Delivery Company</a></font><br>
   
 **Project description:** <br>
 This project's objective is to analyse the outcome of the promotion and discontinue product with the least sale to minimise cost. This project was done in Microsoft's excel interactive dashboard with the data clean and prepare by using Microsoft SQL Server Management Studio.
