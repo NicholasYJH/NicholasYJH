@@ -1,7 +1,7 @@
 <a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a> 
   
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<i class="fa fa-file-powerpoint-o fa-5x"></i>
 <b><font size="+1">Capstone Project 1 - Everyday Grocery Market</font></b><br>
 <a><i class="fas fa-file-powerpoint"></i>
 <a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">Everyday Grocery Market Presentation Slides</a><br>
