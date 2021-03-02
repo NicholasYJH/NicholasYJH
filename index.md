@@ -12,13 +12,13 @@
 ### Capstone Project 2
 <a><a href="/Capstone2">Chillout Takeout Meal Delivery Company</a>
   
-<img src="images/Capstone 2 dashboard.JPG?raw=true" height="230"/>
+<a><a href="/Capstone2"><img src="images/Capstone 2 dashboard.JPG?raw=true" height="230"/></a>
 
 ---
 ### Capstone Project 3
 <a><a href="/Capstone3">Nicholas Reference Insurance Company(NRIC)</a>
   
-<img src="images/Capstone 3 Dashboard.JPG?raw=true"/>
+<a><a href="/Capstone3"><img src="images/Capstone 3 Dashboard.JPG?raw=true"/></a>
 
 ---
 
