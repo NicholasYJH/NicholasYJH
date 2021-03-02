@@ -1,4 +1,4 @@
-<a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a>
+
 
 <b><font size="+1">Capstone Project 2 - Chillout Takeout Meal Delivery Company</font></b><br>
 <a><a href="/Projects/Nicholas Yang Jun Hao - Capstone Project 2 - Chill out takeout.pdf" target="_blank">Chillout Takeout Meal Delivery Company Presentation Slides</a><br>
@@ -24,4 +24,4 @@ Please download the complete presentation slides at the top of the page to see t
 </b>
 
 
-<a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a>
+<a href="javascript:history.back()"><b><font size="+1">< Back</font></b></a>
