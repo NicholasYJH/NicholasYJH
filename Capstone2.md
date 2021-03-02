@@ -2,6 +2,7 @@
 
 <img src="images/ppt.png" height="18" width="18"/><font size="+1"> Presentation Slides:</font>
 <a><a href="/Projects/Nicholas Yang Jun Hao - Capstone Project 2 - Chill out takeout.pdf" target="_blank">Chillout Takeout Meal Delivery Company</a><br>
+  
 <b>As the project file size is too big to be uploaded into Github, I have breakdown the project file into smaller segment for your reference below.</b>
   
 **Project description:** <br>
