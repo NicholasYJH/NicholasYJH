@@ -20,4 +20,4 @@ With the help of this project, it allows me to understand the process of data pr
 <b>Please download and view the two files at the top of the page to see the complete presentation slides and projects</b>
 
 
-<a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a>
+<a href="javascript:history.back()"><b><font size="+1">< Back</font></b></a>
