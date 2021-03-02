@@ -1,11 +1,12 @@
 title: Nicholas Yang # your name (or website title) here
+Logo:
 <img src="images/Profile Pic.jpg" width="100 height="300/>
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/nicholasyjh/"target="_blank">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/nicholasyjh/"target="_blank">View Nicholas LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
