@@ -3,7 +3,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <b><font size="+1">Capstone Project 1 - Everyday Grocery Market</font></b><br>
-<a><i class="fa fa-file-powerpoint-o" style="font-size:48px;color:red"><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">Everyday Grocery Market Presentation Slides</i></a><br>
+<a><i class="fas fa-file-powerpoint"></i>
+<a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.pdf" target="_blank">Everyday Grocery Market Presentation Slides</a><br>
 <a><a href="/Projects/Nicholas Yang Jun Hao Capstone Project 1.xlsx" target="_blank">Everyday Grocery Market Project File</a>
   
 
