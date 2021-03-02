@@ -15,8 +15,10 @@
 <img src="images/Capstone 2 dashboard.JPG?raw=true" height="230"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Capstone Project 3
+<a><a href="/Capstone3">Chillout Takeout Meal Delivery Company</a>
+  
+<img src="images/Capstone 2 dashboard.JPG?raw=true" height="230"/>
 
 ---
 
