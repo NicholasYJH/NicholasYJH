@@ -1,7 +1,7 @@
 
 
 <b><font size="+1">Capstone Project 2 - Chillout Takeout Meal Delivery Company</font></b><br>
-<font size="+1"><img src="images/ppt.png" height="18" width="18"/> Presentation Slides: <a><a href="/Projects/Nicholas Yang Jun Hao - Capstone Project 2 - Chill out takeout.pdf" target="_blank">Chillout Takeout Meal Delivery Company</a></font><br>
+<font size="+1"><img src="images/ppt.png" height="18" width="18"/> Presentation Slides: <a><a href="/Projects/Nicholas Yang Jun Hao - Capstone Project 2 - Chill out takeout.pdf" target="_blank">Chillout Takeout Meal Delivery Company</a><br>
 
   
 
