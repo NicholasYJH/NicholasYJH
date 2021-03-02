@@ -16,7 +16,7 @@
 
 ---
 ### Capstone Project 3
-<a><a href="/Capstone3">Chillout Takeout Meal Delivery Company</a>
+<a><a href="/Capstone3">Nicholas Reference Insurance Company(NRIC)</a>
   
 <img src="images/Capstone 3 dashboard.JPG?raw=true"/>
 
