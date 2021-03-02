@@ -11,7 +11,7 @@
 ---
 ### Capstone Project 2
 <a><a href="/Capstone2">Chillout Takeout Meal Delivery Company</a>
-<img src="images/Capstone 2 dashboard.JPG?raw=true" width="1000" height="400"/>
+<img src="images/Capstone 2 dashboard.JPG?raw=true" width="800" height="300"/>
 
 ---
 [Project 3 Title](http://example.com/)
