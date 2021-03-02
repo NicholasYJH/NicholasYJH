@@ -9,7 +9,7 @@
 <img src="images/Capstone 1 dashboard.JPG"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+<a><a href="/Capstone2">Chillout Takeout Meal Delivery Company</a>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
