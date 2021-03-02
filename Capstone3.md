@@ -1,7 +1,7 @@
 <b><font size="+1">Capstone Project 3 - Nicholas Reference Insurance Company(NRIC)</font></b><br>
 
-<img src="images/ppt.png" height="18" width="18"/><font size="+1"> Presentation Slides:</font>
-<a><a href="/Projects/Nicholas Yang Jun Hao - Capstone Project 2 - Chill out takeout.pdf" target="_blank">Nicholas Reference Insurance Company(NRIC)</a><br>
+<img src="images/project.png" height="18" width="18"/><font size="+1"> Project:</font>
+<a><a href="/Projects/Nicholas Capstone 3 Project.pbix" target="_blank">Nicholas Reference Insurance Company(NRIC)</a><br>
 
   
 
