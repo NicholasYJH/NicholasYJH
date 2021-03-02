@@ -12,7 +12,7 @@ This project
 
 ### Outlook of the interactive dashboard
 
-<img src="images/Capstone 2 dashboard.JPG"/>
+<img src="images/Capstone 2 dashboard.JPG" height="230"/>
 
 ### Conclusion
 
