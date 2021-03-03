@@ -28,7 +28,7 @@ Before starting the data analysis, I have used SQL studio to execute a few comma
 
 ### Conclusion
 
-With the help of this project, it allows me to understand the process of data preparation and the business objective. Withe the different slicers in place, the dashboard became interactive and allow user to drill down and analyse the specific data which gives a better picture to the targeted audience.
+With the help of this project, it allows me to understand the process of data preparation and the business objective. With the different slicers in place, the dashboard became interactive and allow user to drill down and analyse the specific data which gives a better picture to the targeted audience.
 
 <b>
 Please download the complete presentation slides at the top of the page to see the complete presentation slides.
