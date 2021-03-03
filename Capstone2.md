@@ -22,6 +22,7 @@ Before starting the data analysis, I have used SQL studio to execute a few comma
 <img src="images/SQL-join.JPG">
 
 ### Outlook of the interactive dashboard
+I have assign the slicers to a few different category, mainly in the outlet in differnt region, quarters of the year, promotion status, cuisine, and food category. This helps to narrow down the dashboard to specific outcome when clicked on different slicers.
 
 <img src="images/C2 Slicer.JPG" height="300"/>
 
