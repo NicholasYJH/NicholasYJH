@@ -14,6 +14,9 @@ This project focus on the insurance market in the U.S.A, where we use past marke
 
 <a><a href="images/Capstone 3 Dashboard.JPG" target="_blank"><img src="images/Capstone 3 Dashboard.JPG"/></a>
 
+<a><a href="images/C3 Profile.JPG" target="_blank"><img src="images/C3 Profile.JPG"/></a>
+
+
 ### Conclusion
 
 With the help of this project, it allows me to understand the process of data preparation and the business objective. Withe the different slicers in place, the dashboard became interactive and allow user to drill down and analyse the specific data which gives a better picture to the targeted audience.
