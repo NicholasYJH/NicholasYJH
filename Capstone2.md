@@ -28,7 +28,7 @@ I have assign the slicers to a few different category, mainly in the outlet in d
 
 <img src="images/C2 DB.JPG" height="230"/>
 
-<img src="images/Capstone 2 dashboard.JPG" height="230"/>
+<a><img src="images/Capstone 2 dashboard.JPG" height="230"/></a>
 
 ### Conclusion
 
