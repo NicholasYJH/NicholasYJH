@@ -16,7 +16,7 @@ This project focus on the insurance market in the U.S.A, where we use past marke
 
 <a><a href="images/C3 Profile.JPG" target="_blank"><img src="images/C3 Profile.JPG"/></a>
   
-<a><a href="images/C3 recommend.JPG" target="_blank"><img src="images/C3 recommend.JPG"/></a>
+<a><a href="images/C3 Recomend.JPG" target="_blank"><img src="images/C3 Recomend.JPG"/></a>
 
 
 ### Conclusion
