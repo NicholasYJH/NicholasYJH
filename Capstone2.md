@@ -23,7 +23,7 @@ Before starting the data analysis, I have used SQL studio to execute a few comma
 
 ### Outlook of the interactive dashboard
 
-<img src="images/C2 Slicer.JPG"/>
+<img src="images/C2 Slicer.JPG"/ height="300">
 
 <img src="images/C2 DB.JPG"/>
 
