@@ -12,16 +12,15 @@ This project's objective is to analyse the outcome of the promotion and disconti
 ### ERD
 
 The Data collected needs to be clean, but before that we have to identify the relationship between the data. First, we have to  establish the Primary and Foreign keys of the data, as shown below before we clean the data and remove any unnecessary data field.
-<br>
+
 <img src="images/ERD.JPG">
-<br>
 
 ### SQL
 
 Before starting the data analysis, I have used SQL studio to execute a few command. Command such as the following example of joining all tables to link all relationships of primary and foreign keys. Please download the presentation slides at the top of the page to view more of such SQL commands.
-<br>
+
 <img src="images/SQL-join.JPG">
-<br>
+
 ### Outlook of the interactive dashboard
 
 <img src="images/Capstone 2 dashboard.JPG" height="230"/>
