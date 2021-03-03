@@ -29,7 +29,7 @@ I have assign the slicers to a few different category, mainly in the outlet in d
 <a><a href="images/Capstone 2 dashboard.JPG" target="_blank"><img src="images/Capstone 2 dashboard.JPG" height="230"/></a>
 
 ### Conclusion
-
+Having SQL Server Studio to assist with data cleaning allowing me to understand more regarding the data. It allows me to understand the relationship of each data table and setting up primary and foreign keys, I am also able to normalise the data which eventually consolidate and import into excel. Pairing it up with the excel's interactive dashboard format broaden my knowledge while maintain the integrity of the SQL database.
 
 
 <b>
