@@ -19,7 +19,9 @@ The Data collected needs to be clean, but before that we have to identify the re
 
 Before starting the data analysis, I have used SQL studio to execute a few command. Command such as the following example of joining all tables to link all relationships of primary and foreign keys. Please download the presentation slides at the top of the page to view more of such SQL commands.
 
-<img src="images/SQL-join.JPG">
+<b>Please click on the image for full size</b>
+
+<a><a href="images/SQL-join.JPG" target="_blank"><img src="images/SQL-join.JPG"></a>
 
 ### Outlook of the interactive dashboard
 I have assign the slicers to a few different category, mainly in the outlet in different region, quarters of the year, promotion status, cuisine, and food category. This helps to narrow down the dashboard to specific outcome when clicked on different slicers.
