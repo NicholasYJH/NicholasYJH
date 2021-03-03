@@ -11,6 +11,7 @@ This project focus on the insurance market in the U.S.A, where we use past marke
 
 
 ### Overview of the U.S.A Insurance Market
+After the cover page and introduction page, you will be looking this overview dashboard. It shows the overview numbers such as the top 3 benefits, the different insurance provider, consumers by states and many more. It gives insight to users of this dashboard to understand the current market direction and insurance benefits to focus on.
 
 <a><a href="images/Capstone 3 Dashboard.JPG" target="_blank"><img src="images/Capstone 3 Dashboard.JPG"/></a>
 
