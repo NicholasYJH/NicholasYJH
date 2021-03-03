@@ -6,7 +6,7 @@
   
 
 **Project description:** <br>
-This project's objective is to analyse the outcome of the promotion and discontinue product with the least sale to minimise cost. This project was done in Microsoft's excel interactive dashboard with the data clean and prepare by using Microsoft SQL Server Management Studio.
+This project focus on the insurance market in the U.S.A, where we use past market data to assist users for a better informed purchasing decision. This time round we are using Power BI for this project.
 
 
 
