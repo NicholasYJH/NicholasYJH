@@ -10,9 +10,9 @@ This project focus on the insurance market in the U.S.A, where we use past marke
 
 
 
-### Outlook of the interactive dashboard
+### Overview of the U.S.A Insurance Market
 
-<img src="images/Capstone 3 Dashboard.JPG"/>
+<a><a href="images/Capstone 3 Dashboard.JPG" target="_blank"><img src="images/Capstone 3 Dashboard.JPG"/></a>
 
 ### Conclusion
 
