@@ -24,11 +24,13 @@ Before starting the data analysis, I have used SQL studio to execute a few comma
 ### Outlook of the interactive dashboard
 I have assign the slicers to a few different category, mainly in the outlet in different region, quarters of the year, promotion status, cuisine, and food category. This helps to narrow down the dashboard to specific outcome when clicked on different slicers.
 
-<a><a href="images/Capstone 2 dashboard.JPG" height="500" target="_blank"><img src="images/Capstone 2 dashboard.JPG" height="230"/></a>
+<b>Please click on the image for full size</b>
+
+<a><a href="images/Capstone 2 dashboard.JPG" target="_blank"><img src="images/Capstone 2 dashboard.JPG" height="230"/></a>
 
 ### Conclusion
 
-With the help of this project, it allows me to understand the process of data preparation and the business objective. With the different slicers in place, the dashboard became interactive and allow user to drill down and analyse the specific data which gives a better picture to the targeted audience.
+
 
 <b>
 Please download the complete presentation slides at the top of the page to see the complete presentation slides.
