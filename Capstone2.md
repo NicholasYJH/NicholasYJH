@@ -23,6 +23,10 @@ Before starting the data analysis, I have used SQL studio to execute a few comma
 
 ### Outlook of the interactive dashboard
 
+<img src="images/C2 Slicer.JPG"/>
+
+<img src="images/C2 DB.JPG"/>
+
 <img src="images/Capstone 2 dashboard.JPG" height="230"/>
 
 ### Conclusion
