@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-Please click on the link below each capstone project to see details and download the projects/presentation slides
+Please click on the link below each capstone project to see details and download the projects/presentation slides.
 
 ### Capstone Project 1
 
