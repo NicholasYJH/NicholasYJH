@@ -34,10 +34,11 @@ The alternative solution would be getting the insurance indiviudually, they can 
 
 
 ### Conclusion
-
+As each project goes, the data got bigger in size and it takes a longer to decipher and analyse the data. Ultimately, it boils down to what to achieve for the business objective and work towards that. Having Power BI, guide me in presenting with more useful and visual graphs that allows me to deliver the analysis better. 
 
 
 <b>
 Please download the project at the top of the page to see more details.
 </b>
+
 <a href="javascript:history.back()"><b><font size="+2">< Back</font></b></a>
