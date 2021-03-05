@@ -15,6 +15,8 @@ After the cover page and introduction page, you will be looking this overview da
 
 <a><a href="images/Capstone 3 Dashboard.JPG" target="_blank"><img src="images/Capstone 3 Dashboard.JPG"/></a>
 
+Moving on, we will be assisting a couple's purchasing decision base on a few particulars and status of theirs. Details are in the image below.
+
 <a><a href="images/C3 Profile.JPG" target="_blank"><img src="images/C3 Profile.JPG"/></a>
   
 <a><a href="images/C3 Recomend.JPG" target="_blank"><img src="images/C3 Recomend.JPG"/></a>
