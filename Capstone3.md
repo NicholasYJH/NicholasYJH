@@ -25,12 +25,17 @@ The results will show in a few form, such as the average premium for different a
   
 <a><a href="images/C3 Recomend.JPG" target="_blank"><img src="images/C3 Recomend.JPG"/></a>
   
+### Recommendation
+The recommendation for this family is to get a family option insurance from the insurance provider, HIOS. The reason being it has the lowest average premium for the family, however after analysing the data, we found out that this insurance product is a seasonal product which is not always available to them.
+
+The alternative solution would be getting the insurance indiviudually, they can make the purchase base on the past average premium of around $315.
+  
 <a><a href="images/C3 Conclusion.JPG" target="_blank"><img src="images/C3 Conclusion.JPG"/></a>
 
 
 ### Conclusion
 
-With the help of this project, it allows me to understand the process of data preparation and the business objective. Withe the different slicers in place, the dashboard became interactive and allow user to drill down and analyse the specific data which gives a better picture to the targeted audience.
+
 
 <b>
 Please download the project at the top of the page to see more details.
