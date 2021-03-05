@@ -19,6 +19,10 @@ Moving on, we will be assisting a couple's purchasing decision base on a few par
 
 <a><a href="images/C3 Profile.JPG" target="_blank"><img src="images/C3 Profile.JPG"/></a>
   
+When you are on this page, you can input your details to have a look at the insurance market situation. You can input your details such as age, co-insurance & deductible status, insurance provider, the state you are in, the premium, and the time period you are looking at.
+
+The results will show in a few form, such as the average premium for different age group or even family option. You could also see which period of time has more people getting their insurance. You will be able to see which insurance co-insurance & deductible status and insurance provider people are getting.
+  
 <a><a href="images/C3 Recomend.JPG" target="_blank"><img src="images/C3 Recomend.JPG"/></a>
   
 <a><a href="images/C3 Conclusion.JPG" target="_blank"><img src="images/C3 Conclusion.JPG"/></a>
